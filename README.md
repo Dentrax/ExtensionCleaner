@@ -86,7 +86,7 @@ ExtensionCleaner was created to serve three purposes:
 
 ## Collaborators
 
-**Project Manager** - Furkan T�rkal (GitHub: **[dentrax](https://github.com/dentrax)**)
+**Project Manager** - Furkan Türkal (GitHub: **[dentrax](https://github.com/dentrax)**)
 
 ## Branches
 
