@@ -111,7 +111,7 @@ Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for contribution instru
 
 ## Contact
 
-ExtensionCleaner was created by Furkan 'Dentrax' T�rkal
+ExtensionCleaner was created by Furkan 'Dentrax' Türkal
 
  * <https://www.furkanturkal.com>
  
