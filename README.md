@@ -96,7 +96,7 @@ The **[master branch](https://github.com/dentrax/ExtensionCleaner/tree/master)**
 
 ## Copyright & Licensing
 
-The base project code is copyrighted by Furkan 'Dentrax' T�rkal and is covered by single licence.
+The base project code is copyrighted by Furkan 'Dentrax' Türkal and is covered by single licence.
 
 All program code (i.e. .vb, .resx) is licensed under MIT License unless otherwise specified. Please see the **[LICENSE.md](https://github.com/Dentrax/ExtensionCleaner/blob/master/LICENSE)** file for more information.
 
