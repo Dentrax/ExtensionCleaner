@@ -2,7 +2,7 @@
 
 **It's an old simple File CleanUp tool I made in `2012`**
 
-**Warning: This is not a system-cleanup-tool or an optimize-tool**
+**Warning: This is not a system-cleanup-tool or an optimizer-tool**
 
 **Warning: There are no reusable-codes. (code-repeats more) Because, it's an very-old learning-project**
 
@@ -86,7 +86,7 @@ ExtensionCleaner was created to serve three purposes:
 
 ## Collaborators
 
-**Project Manager** - Furkan Türkal (GitHub: **[dentrax](https://github.com/dentrax)**)
+**Project Manager** - Furkan Tï¿½rkal (GitHub: **[dentrax](https://github.com/dentrax)**)
 
 ## Branches
 
@@ -96,7 +96,7 @@ The **[master branch](https://github.com/dentrax/ExtensionCleaner/tree/master)**
 
 ## Copyright & Licensing
 
-The base project code is copyrighted by Furkan 'Dentrax' Türkal and is covered by single licence.
+The base project code is copyrighted by Furkan 'Dentrax' Tï¿½rkal and is covered by single licence.
 
 All program code (i.e. .vb, .resx) is licensed under MIT License unless otherwise specified. Please see the **[LICENSE.md](https://github.com/Dentrax/ExtensionCleaner/blob/master/LICENSE)** file for more information.
 
@@ -111,7 +111,7 @@ Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for contribution instru
 
 ## Contact
 
-ExtensionCleaner was created by Furkan 'Dentrax' Türkal
+ExtensionCleaner was created by Furkan 'Dentrax' Tï¿½rkal
 
  * <https://www.furkanturkal.com>
  
