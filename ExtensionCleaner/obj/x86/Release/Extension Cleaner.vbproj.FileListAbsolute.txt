@@ -1,0 +1,12 @@
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\bin\Release\Extension Cleaner.exe
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\bin\Release\Extension Cleaner.pdb
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\bin\Release\Extension Cleaner.xml
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\obj\x86\Release\Extension_Cleaner.frmMain.resources
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\obj\x86\Release\Extension_Cleaner.frmSettings.resources
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\obj\x86\Release\Extension_Cleaner.frmAbout.resources
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\obj\x86\Release\Extension_Cleaner.Resources.resources
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\obj\x86\Release\Extension Cleaner.vbproj.GenerateResource.Cache
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\obj\x86\Release\Extension Cleaner.vbproj.CoreCompileInputs.cache
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\obj\x86\Release\Extension Cleaner.exe
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\obj\x86\Release\Extension Cleaner.xml
+D:\_Coding-Corner_\dotNET\Projects\DMP Cleaner\DMP Cleaner\obj\x86\Release\Extension Cleaner.pdb
