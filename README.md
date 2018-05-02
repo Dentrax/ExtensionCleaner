@@ -100,11 +100,6 @@ The base project code is copyrighted by Furkan 'Dentrax' Türkal and is covered 
 
 All program code (i.e. .vb, .resx) is licensed under MIT License unless otherwise specified. Please see the **[LICENSE.md](https://github.com/Dentrax/ExtensionCleaner/blob/master/LICENSE)** file for more information.
 
-**References**
-
-While this repository is being prepared, it may have been quoted from some sources. (i.e Bitcoin Core)
-If there is an unspecified source, please contact me.
-
 ## Contributing
 
 Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for contribution instructions and naming guidelines.
